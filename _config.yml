@@ -1,17 +1,15 @@
 # Site settings
-title: A blog about lorem ipsum dolor sit amet
-description: A blog about lorem ipsum dolor sit amet
+title: Willian Souza | DEV
+description: Um Breve resumo para fins Profissionais...
 # baseurl: "/particle" # the subpath of your site, e.g. /blog
 # url: "localhost:3000" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
 
 # User settings
-username: Anon Developer
-user_description: Bicycle rights irony actually neutra typewriter lyft. Man bun taxidermy put a bird on it, umami yr ramps pop-up ugh bushwick chia lo-fi. Occupy bitters pour-over snackwave you probably haven't heard of them small batch. Cornhole mustache man bun letterpress echo park VHS.
+username: Willian Souza
+#user_description: <p> Minha historia com TI começou na minha adolescência onde aprendi dar manutenção em computadores por propia indepedencia e curiosidade, e depois tive a oportunidade de trabalhar em uma Assistencia tecnica da minha cidade chamada AlphaTech, em 2014, como técnico de manutenção de computadores foi lá que eu descobri que queria investir nessa área, um tempo se passou e em 2017 quando havia concluido o meu ensino medio decidi cursar <b> Sistemas de Informação no Centro universitario Una Betim,</b> Lá conheci a área de desenvolvimento de Software trabalhando principalmente com <b>Java, Python, Javascript.</b> <p> Em <b>Novembro de 2018</b> fui aprovado como <b>Estagiario de Tecnologia da Informação no Terminal de Cargas de Sarzedo</b> lá eu tive contato com sistemas baseados em <b>PHP</b> com o framework <b>Laravel</b> e banco de dados <b>SQL SERVER</b>, além de aplicações hibridas <b>OfflineFirst</b> com <b>Ionic 3</b> com comunicação via RestFul e banco de dados <b>CouchDB</b>, já em Agosto de 2020 fui efetivado com <b>Assistente de Tecnologia da Informação</b>, tenho muito a agradecer a toda a equipe que trabalhou comigo pois tive a chance de aprender muito com eles e ter uma visão mais ampla desde da parte da Infrastrutura de redes corporativas até projetos de sistemas de automação. <p> <b>Em Setembro de 2021</b> recebi a oferta de fazer parte do <b>Bernoulli Sistema de ensino</b> como Developer em uma área que eles chamam de <a href="https://sistema.bernoulli.com.br/spotb" class="link">spotB</a> que é um HUB de tecnologia educacional, faço parte do <b>time de desenvolvimento backend</b> com Laravel e SQL SERVER em uma Plataforma de Ensino da Empresa.
 user_title: Software Developer
-email: anon@anon.com
-twitter_username: lorem_ipsum
-github_username:  lorem_ipsum
-gplus_username:  lorem_ipsum
+email: willianjjorge@gmail.com
+github_username:  souzaWill
 
 # Google-analytics
 google-analytics:

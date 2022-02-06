@@ -15,7 +15,7 @@
   text-align: center;
   font-size: 60px;
   display: flex;
-  flex-direction: row;
+  flex-direction: column;
   flex-wrap: wrap;
   justify-content: space-between;
   p {
@@ -28,6 +28,19 @@
 }
 
 .user-details {
+  text-align: left;
+  margin: 5px auto;
+}
+
+.links {
+  color: rgb(84, 140, 168);
+}
+.user-details-title{
+  text-align: center;
+  margin: 5px auto;
+}
+
+.skills {
   text-align: center;
   margin: 5px auto;
 }
